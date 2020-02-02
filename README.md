@@ -20,3 +20,8 @@ A simple python app to perform basic operations on an image.
 - Open CV
 - Numpy
 - Matplotlib
+## Example
+### Original Image
+![Original](/Images/tree.jpg)
+### Image after grayscale conversion
+![Gray](/Images/gray.jpg)
