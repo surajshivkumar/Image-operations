@@ -25,3 +25,5 @@ A simple python app to perform basic operations on an image.
 ![Original](/Images/tree.jpg)
 ### Image after grayscale conversion
 ![Gray](/Images/gray.jpg)
+### Canny Edge Detector
+![Edge](/Images/edge.jpg)
